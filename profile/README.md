@@ -352,6 +352,10 @@ _Music brings memories and the emotions_
 - - -
 
 ## 📑 주요 기능 명세서
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/43109589/203991183-3252c17d-ab4b-4363-8a79-87b9e927aea4.png">
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/43109589/203991302-6ca91eb3-2e7a-4ae5-b845-26941337d19b.png">
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/43109589/203991362-4b6eb7f5-55b1-4cb6-8269-4df57a132c19.png">
 
-![image](https://user-images.githubusercontent.com/43109589/195969976-3358b785-01de-4b10-becb-9eecf1c1931c.png)
+
+<!-- ![image](https://user-images.githubusercontent.com/43109589/195969976-3358b785-01de-4b10-becb-9eecf1c1931c.png) -->
 
